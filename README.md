@@ -9,7 +9,9 @@ Volumen del cubo
 ### Ejemplo 1
 - URL ---> localhost:8080/cube/volumen/5
 - Salida ---> El volumen del cubo es: 125
-
+--------------------------------------------
+![image](https://user-images.githubusercontent.com/91268793/145692095-3b32091f-662e-41f1-846d-089d99ce8f7f.png)
+-----------------------------------
 ### URL
 /cube/surfacearea/parametro1
 ### Parametros
