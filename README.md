@@ -51,6 +51,7 @@ Volumen del torus
 - Salida ---> El volumen del torus es: 102150.41
 --------------------------------------------------------
 
+![image](https://user-images.githubusercontent.com/91268793/145692791-1a73fd4b-904b-4dcd-8b4a-b3693fdec9ff.png)
 
 --------------------------------------------------------
 ### URL
