@@ -1,5 +1,5 @@
 # Especificación del API
-## API para figuras que necesitan un solo parámetro
+## ⭐API para figuras que necesitan un solo parámetro
 ### URL
 /cube/volumen/parametro1
 ### Parametros
@@ -23,7 +23,7 @@ Superficie del cubo
 - Salida ---> El area de la superficie del cubo es: 96
 
 
-## API para figuras que necesitan dos parámetros
+## ⭐API para figuras que necesitan dos parámetros
 ### URL
 /general cone/volumen/parametro1/parametro2
 ### Parametros
@@ -36,7 +36,7 @@ Volumen del general cone
 - URL ---> localhost:8080/general cone/volumen/12/7
 - Salida ---> El volumen del general cone es: 28
 
-## API para figuras que necesitan tres parámetros
+## ⭐API para figuras que necesitan tres parámetros
 ### URL
 /rectangulo solido/volumen/parametro1/parametro2/parametro3
 ### Parametros
