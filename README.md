@@ -1,5 +1,7 @@
 # Especificación del API
-## ⭐API para figuras que necesitan un solo parámetro
+![Alt Text](https://media.giphy.com/media/KZYTMerDWCEKK9sV4Q/giphy.gif)
+## ⭐API para figuras que necesitan un solo parámetro⭐
+> Este API es para aquellas figuras que necesitan 1 solo parametro(cubo,esfera,tetrahedro regular)
 ### URL
 /cube/volumen/parametro1
 ### Parametros
@@ -27,7 +29,8 @@ Superficie del cubo
  
 --------------------------------------------------------------------------------------------------------
 
-## ⭐API para figuras que necesitan dos parámetros
+## ⭐API para figuras que necesitan dos parámetros⭐
+> Este API es para aquellas figuras que necesitan 2 parametros(cono,piramide,cono circular,torus,piramide cuadrada,cilindro,)
 ### URL
 /general cone/volumen/parametro1/parametro2
 ### Parametros
@@ -100,7 +103,8 @@ Volumen del right cicular cylinder
 
 --------------------------------------------------------------------
 
-## ⭐API para figuras que necesitan tres parámetros
+## ⭐API para figuras que necesitan tres parámetros⭐
+> Este API es para aquellas figuras que necesitan 3 parametros (rectangulo)
 ### URL
 /rectangulo solido/volumen/parametro1/parametro2/parametro3
 ### Parametros
@@ -129,7 +133,8 @@ El área de la superficie del rectangulo solido
 --------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/91268793/145693011-6ee3f883-6ea4-435f-ad4f-a51c35ce3a3e.png)
 -----------------------------------------------------------------------------------------
-## ⭐API para figuras que necesitan cuatro parámetros
+## ⭐API para figuras que necesitan cuatro parámetros⭐
+> Este API es para aquellas figuras que necesiten 4 parametro(tronco de un cono)
 ### URL
 /frustum of a cone/volumen/parametro1/parametro2/parametro3/parametro4
 ### Parametros
