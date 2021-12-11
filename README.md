@@ -141,7 +141,8 @@ El volumen del del tronco de un cono
 - URL ---> localhost:8080/frustum of a cone/volumen/11/8/19/3
 - Salida ---> El volumen de tronco de un cono es: 5431.81
 -------------------------------------------------------------------
-![image](https://user-images.githubusercontent.com/91268793/145693047-ba67e539-fef2-497c-a768-f08a44b327ff.png)
+![image](https://user-images.githubusercontent.com/91268793/145693295-de667a86-65f5-4b02-9805-14c139e6252a.png)
+
 ----------------------------------------------------------------------
 ### URL
 /frustum of a cone/surfacearea/parametro1/parametro2/parametro3/parametro4
