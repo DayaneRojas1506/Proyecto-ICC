@@ -8,7 +8,7 @@
 Volumen del cubo
 
 ### Ejemplo
-- URL ---> localhost:9000/cube/volumen/5
+- URL ---> localhost:8080/cube/volumen/5
 - Salida ---> El volumen del cubo es: 125
 
 ### URL
@@ -19,7 +19,7 @@ Volumen del cubo
 Superficie del cubo
 
 ### Ejemplo
-- URL ---> localhost:9000/cube/volumen/5
+- URL ---> localhost:8080/cube/surfacearea/4
 - Salida ---> El area de la superficie del cubo es: 96
 
 
@@ -33,5 +33,5 @@ Superficie del cubo
 Volumen del general cone
 
 ### Ejemplo
-- URL ---> localhost:9000/cube/volumen/12/7
+- URL ---> localhost:8080/general cone/volumen/12/7
 - Salida ---> El volumen del general cone es: 28
