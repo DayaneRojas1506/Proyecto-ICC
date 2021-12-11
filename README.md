@@ -154,7 +154,8 @@ El volumen del del tronco de un cono
 El área de la superficie del tronco de un cono
 ### Ejemplo 1
 - URL ---> localhost:8080/frustum of a cone/surfacearea/11/8/19/3
-- Salida ---> El area de tronco de un cono es: 5431.81
+- Salida ---> El area de tronco de un cono es: 760.27
 ---------------------------------------------------------------
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/91268793/145693129-a1274236-2b66-4b72-9dce-2df6ff9804d0.png)
+
 ---------------------------------------------------------------
