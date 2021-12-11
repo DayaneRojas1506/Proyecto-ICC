@@ -81,7 +81,9 @@ Volumen del right cicular cylinder
 ### Ejemplo 4
 - URL ---> localhost:8080/right cicular cylinder/volumen/6/21
 - Salida ---> El volumen del right cicular cylinder es: 2375.04
-
+----------------------------------------------------------------------
+![image](https://user-images.githubusercontent.com/91268793/145693034-8cd581b5-901c-42a6-b715-3502bd207cb3.png)
+------------------------------------------------------------------------
 ### URL
 /right cicular cylinder/surfacearea/parametro1/parametro2
 ### Parametros
@@ -139,7 +141,8 @@ El volumen del del tronco de un cono
 - URL ---> localhost:8080/frustum of a cone/volumen/11/8/19/3
 - Salida ---> El volumen de tronco de un cono es: 5431.81
 -------------------------------------------------------------------
-
+![image](https://user-images.githubusercontent.com/91268793/145693047-ba67e539-fef2-497c-a768-f08a44b327ff.png)
+----------------------------------------------------------------------
 ### URL
 /frustum of a cone/surfacearea/parametro1/parametro2/parametro3/parametro4
 ### Parametros
