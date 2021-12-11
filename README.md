@@ -150,7 +150,7 @@ El área de la superficie del rectangulo solido
 ### URL
 `/frustum of a cone/volumen/parametro1/parametro2/parametro3/parametro4`
 ### Parametros
-- parametro1: Radio superio
+- parametro1: Radio superior
 - parametro2: Radio base
 - parametro3: Altura
 - parametro4: Altura inclinada
