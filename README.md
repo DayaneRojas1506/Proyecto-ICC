@@ -36,6 +36,51 @@ Volumen del general cone
 - URL ---> localhost:8080/general cone/volumen/12/7
 - Salida ---> El volumen del general cone es: 28
 
+### URL
+/torus/volumen/parametro1/parametro2
+### Parametros
+- parametro1: Tube radius
+- parametro2: Torus radius
+### Salida
+Volumen del torus
+### Ejemplo 2
+- URL ---> localhost:8080/torus/volumen/15/23
+- Salida ---> El volumen del torus es: 102150.41
+
+### URL
+/torus/surfacearea/parametro1/parametro2
+### Parametros
+- parametro1: Tube radius
+- parametro2: Torus radius
+### Salida
+Área del torus
+### Ejemplo 3
+- URL ---> localhost:8080/torus/surfacearea/9/13
+- Salida ---> El area del torus es: 4618.97
+
+### URL
+/right cicular cylinder/volumen/parametro1/parametro2
+### Parametros
+- parametro1: radio
+- parametro2: altura
+### Salida
+Volumen del right cicular cylinder
+### Ejemplo 4
+- URL ---> localhost:8080/right cicular cylinder/volumen/6/21
+- Salida ---> El volumen del right cicular cylinder es: 2375.04
+
+### URL
+/right cicular cylinder/surfacearea/parametro1/parametro2
+### Parametros
+- parametro1: radio
+- parametro2: altura
+### Salida
+Área del right cicular cylinder
+### Ejemplo 5
+- URL ---> localhost:8080/right cicular cylinder/surfacearea/5/23
+- Salida ---> El area de superficie del right cicular cylinder es: 879.65
+
+
 ## API para figuras que necesitan tres parámetros
 ### URL
 /rectangulo solido/volumen/parametro1/parametro2/parametro3
