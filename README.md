@@ -92,7 +92,9 @@ Volumen del right cicular cylinder
 ### Ejemplo 5
 - URL ---> localhost:8080/right cicular cylinder/surfacearea/5/23
 - Salida ---> El area de superficie del right cicular cylinder es: 879.65
-
+---------------------------------------------------------------
+![image](https://user-images.githubusercontent.com/91268793/145692984-c6b4297f-3641-4c89-b505-bacb20bab784.png)
+--------------------------------------------------------------------
 
 ## API para figuras que necesitan tres parámetros
 ### URL
@@ -106,7 +108,9 @@ Volumen del rectangulo solido
 ### Ejemplo 1
 - URL ---> localhost:8080/rectangulo solido/volumen/20/13/8
 - Salida ---> El volumen del rectangulo solido es: 2080
-
+------------------------------------------------------------------------------
+![image](https://user-images.githubusercontent.com/91268793/145692992-cfb20036-a002-454f-a6a4-3d223ebda873.png)
+---------------------------------------------------------------------------------
 ### URL
 /rectangulo solido/surfacearea/parametro1/parametro2/parametro3
 ### Parametros
@@ -118,7 +122,9 @@ El área de la superficie del rectangulo solido
 ### Ejemplo 2
 - URL ---> localhost:8080/rectangulo solido/surfacearea/20/13/8
 - Salida ---> El área del rectangulo solido es: 1048
-
+--------------------------------------------------------------------------------------
+![image](https://user-images.githubusercontent.com/91268793/145693011-6ee3f883-6ea4-435f-ad4f-a51c35ce3a3e.png)
+-----------------------------------------------------------------------------------------
 ## API para figuras que necesitan cuatro parámetros
 ### URL
 /frustum of a cone/volumen/parametro1/parametro2/parametro3/parametro4
