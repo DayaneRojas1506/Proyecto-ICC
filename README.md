@@ -40,9 +40,9 @@ Volumen del general cone
 ### URL
 /rectangulo solido/volumen/parametro1/parametro2/parametro3
 ### Parametros
-- parametro1: Largo
-- parametro2: Ancho
-- parametro3: Altura
+- Parametro1: Largo
+- Parametro2: Ancho
+- Parametro3: Altura
 ### Salida
 Volumen del rectangulo solido
 ### Ejemplo 1
