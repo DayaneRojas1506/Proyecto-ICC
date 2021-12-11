@@ -96,7 +96,8 @@ Volumen del right cicular cylinder
 - URL ---> localhost:8080/right cicular cylinder/surfacearea/5/23
 - Salida ---> El area de superficie del right cicular cylinder es: 879.65
 ---------------------------------------------------------------
-![image](https://user-images.githubusercontent.com/91268793/145692984-c6b4297f-3641-4c89-b505-bacb20bab784.png)
+![image](https://user-images.githubusercontent.com/91268793/145693364-5ad005cc-5fc6-4d11-81d2-890b2a3637cb.png)
+
 --------------------------------------------------------------------
 
 ## API para figuras que necesitan tres parámetros
