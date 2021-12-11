@@ -49,7 +49,10 @@ Volumen del torus
 ### Ejemplo 2
 - URL ---> localhost:8080/torus/volumen/15/23
 - Salida ---> El volumen del torus es: 102150.41
+--------------------------------------------------------
 
+
+--------------------------------------------------------
 ### URL
 /torus/surfacearea/parametro1/parametro2
 ### Parametros
@@ -60,7 +63,10 @@ Volumen del torus
 ### Ejemplo 3
 - URL ---> localhost:8080/torus/surfacearea/9/13
 - Salida ---> El area del torus es: 4618.97
----------
+----------------------------------------------------------
+![image](https://user-images.githubusercontent.com/91268793/145692742-0a0219c0-82dd-4236-a0ee-223027f72b47.png)
+
+----------------------------------------------------------
 ### URL
 /right cicular cylinder/volumen/parametro1/parametro2
 ### Parametros
