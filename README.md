@@ -3,7 +3,7 @@
 ## ⭐API para figuras que necesitan un solo parámetro⭐
 > Este API es para aquellas figuras que necesitan 1 solo parametro(cubo,esfera,tetrahedro regular)
 ### URL
-/cube/volumen/parametro1
+`/cube/volumen/parametro1`
 ### Parametros
 - parametro1: Lado del cubo
 ### Salida
