@@ -35,6 +35,9 @@ Volumen del general cone
 ### Ejemplo 1
 - URL ---> localhost:8080/general cone/volumen/12/7
 - Salida ---> El volumen del general cone es: 28
+- -------------------------------------------------------------------
+![image](https://user-images.githubusercontent.com/91268793/145692683-10ec7354-a9d9-4107-ae16-74383b27c5dc.png)
+-----------------------------------------------------------------------
 
 ### URL
 /torus/volumen/parametro1/parametro2
@@ -57,7 +60,7 @@ Volumen del torus
 ### Ejemplo 3
 - URL ---> localhost:8080/torus/surfacearea/9/13
 - Salida ---> El area del torus es: 4618.97
-
+---------
 ### URL
 /right cicular cylinder/volumen/parametro1/parametro2
 ### Parametros
