@@ -22,7 +22,8 @@ Superficie del cubo
 - URL ---> localhost:8080/cube/surfacearea/4
 - Salida ---> El área de la superficie del cubo es: 96
 - ----------------------------------------------------------------------------------------------------------
-![image](https://user-images.githubusercontent.com/91268793/145692918-906c720b-987d-4d79-b6a6-b8985d202887.png)
+![image](https://user-images.githubusercontent.com/91268793/145693332-9bbcb7b3-52ae-4034-9efd-38ffb984d74a.png)
+
  
 --------------------------------------------------------------------------------------------------------
 
