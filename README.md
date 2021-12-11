@@ -3,7 +3,7 @@
 ### URL
 /cube/volumen/parametro1
 ### Parametros
-- parametro1 Lado del cubo
+- parametro1: Lado del cubo
 ### Salida
 Volumen del cubo
 
