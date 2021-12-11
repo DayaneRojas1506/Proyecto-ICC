@@ -9,9 +9,9 @@ Volumen del cubo
 ### Ejemplo 1
 - URL ---> localhost:8080/cube/volumen/5
 - Salida ---> El volumen del cubo es: 125
---------------------------------------------
+---------------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/91268793/145692095-3b32091f-662e-41f1-846d-089d99ce8f7f.png)
------------------------------------
+------------------------------------------------------------------------------------------
 ### URL
 /cube/surfacearea/parametro1
 ### Parametros
@@ -21,7 +21,10 @@ Superficie del cubo
 ### Ejemplo 2
 - URL ---> localhost:8080/cube/surfacearea/4
 - Salida ---> El área de la superficie del cubo es: 96
-
+- ----------------------------------------------------------------------------------------------------------
+![image](https://user-images.githubusercontent.com/91268793/145692918-906c720b-987d-4d79-b6a6-b8985d202887.png)
+ 
+--------------------------------------------------------------------------------------------------------
 
 ## API para figuras que necesitan dos parámetros
 ### URL
@@ -129,6 +132,7 @@ El volumen del del tronco de un cono
 ### Ejemplo 1
 - URL ---> localhost:8080/frustum of a cone/volumen/11/8/19/3
 - Salida ---> El volumen de tronco de un cono es: 5431.81
+-------------------------------------------------------------------
 
 ### URL
 /frustum of a cone/surfacearea/parametro1/parametro2/parametro3/parametro4
@@ -142,3 +146,6 @@ El área de la superficie del tronco de un cono
 ### Ejemplo 1
 - URL ---> localhost:8080/frustum of a cone/surfacearea/11/8/19/3
 - Salida ---> El area de tronco de un cono es: 5431.81
+---------------------------------------------------------------
+![Uploading image.png…]()
+---------------------------------------------------------------
