@@ -1,3 +1,11 @@
+# PROYECTO DE CREACION DE APIS
+En este proyecto hemos realizado la creacion de 4 APIS para calcular en "area" y "volumen" depende de lo que el usuario necesite hallar.
+En total tenemos 10 figuras sacadas de la siguente imagen [Figura geometricas](https://github.com/cs1000-utec/pc2/blob/main/option4/geometry.jpg)
+## *INTEGRANTES & CUENTA DE GITHUB*
+- [Brigitte Rojas Leon](https://github.com/cs1000-utec/pc2/blob/main/option4/geometry.jpg)
+- [Paola Maguiña Aranda]()
+- [Jorge Rojas Guillen]()
+- [Milloshy Crisostomo Rodriguez]()
 # Especificación del API
 ![Alt Text](https://media.giphy.com/media/KZYTMerDWCEKK9sV4Q/giphy.gif)
 ## ⭐API para figuras que necesitan un solo parámetro⭐
