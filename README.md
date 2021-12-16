@@ -1,12 +1,12 @@
-# PROYECTO DE CREACION DE APIS
+# PROYECTO DE CREACION DE APIS 🖱️
 En este proyecto hemos realizado la creacion de 4 APIS para calcular en "area" y "volumen" depende de lo que el usuario necesite hallar.
 En total tenemos 10 figuras sacadas de la siguente imagen [Figura geometricas](https://github.com/cs1000-utec/pc2/blob/main/option4/geometry.jpg)
-## *INTEGRANTES & CUENTA DE GITHUB*
+## *INTEGRANTES & CUENTA DE GITHUB* 🫂
 - [Brigitte Rojas Leon](https://github.com/DayaneRojas1506)
 - [Paola Maguiña Aranda](https://github.com/PaolaMag)
 - [Jorge Rojas Guillen]()
 - [Milloshy Crisostomo Rodriguez](https://github.com/MilloshyC-UTEC)
-# Instrucciones para ejecutar el proyecto
+# Instrucciones para ejecutar el proyecto ☑️
 > Tener intalado python3.8 o versiones superiores
 > Tener instaldo flash
 1.Lo primero que vamos hacer es entrar al **terminal** y clonar el repositorio para abrir el **main.py** del proyecto.
