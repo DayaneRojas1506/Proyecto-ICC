@@ -2,10 +2,20 @@
 En este proyecto hemos realizado la creacion de 4 APIS para calcular en "area" y "volumen" depende de lo que el usuario necesite hallar.
 En total tenemos 10 figuras sacadas de la siguente imagen [Figura geometricas](https://github.com/cs1000-utec/pc2/blob/main/option4/geometry.jpg)
 ## *INTEGRANTES & CUENTA DE GITHUB*
-- [Brigitte Rojas Leon](https://github.com/cs1000-utec/pc2/blob/main/option4/geometry.jpg)
-- [Paola Maguiña Aranda]()
+- [Brigitte Rojas Leon](https://github.com/DayaneRojas1506)
+- [Paola Maguiña Aranda](https://github.com/PaolaMag)
 - [Jorge Rojas Guillen]()
-- [Milloshy Crisostomo Rodriguez]()
+- [Milloshy Crisostomo Rodriguez](https://github.com/MilloshyC-UTEC)
+# Instrucciones para ejecutar el proyecto
+> Tener intalado python3.8 o versiones superiores
+> Tener instaldo flash
+1.Lo primero que vamos hacer es entrar al **terminal** y clonar el repositorio para abrir el **main.py** del proyecto.
+2.Luego entramos a **VSCODE** para verficar el contenido que se encuentra en el **main.py**
+3.Corremos el codigo y debe  de aparecer 
+ > Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+4. Por ultimo nos dirigimos al buscador y insertamos el URL que nos aperecio, indicando los parametros y valor que usted necesita.
+*A continuacion se explicara mas las especificacion que se encuentran en nuestro proyecto*
+
 # Especificación del API
 ![Alt Text](https://media.giphy.com/media/KZYTMerDWCEKK9sV4Q/giphy.gif)
 ## ⭐API para figuras que necesitan un solo parámetro⭐
