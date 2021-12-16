@@ -1,7 +1,8 @@
-# PROYECTO DE CREACION DE APIS 🖱️
+#                                PROYECTO DE CREACION DE APIS 🖱️ 😎
 En este proyecto hemos realizado la creacion de 4 APIS para calcular en "area" y "volumen" depende de lo que el usuario necesite hallar.
 En total tenemos 10 figuras sacadas de la siguente imagen [Figura geometricas](https://github.com/cs1000-utec/pc2/blob/main/option4/geometry.jpg)
-## *INTEGRANTES & CUENTA DE GITHUB* 🫂
+<a href="url"><img src="https://www.pragma.com.co/hubfs/academia/Im%C3%A1genes%20Blog/h_que_es_api_como_beneficia_negocio.jpg" align="left" height="170" width="970" ></a>
+## *INTEGRANTES & CUENTA DE GITHUB* 💁
 - [Brigitte Rojas Leon](https://github.com/DayaneRojas1506)
 - [Paola Maguiña Aranda](https://github.com/PaolaMag)
 - [Jorge Rojas Guillen](https://github.com/JorgeRojasGuillen)
