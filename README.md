@@ -4,7 +4,7 @@ En total tenemos 10 figuras sacadas de la siguente imagen [Figura geometricas](h
 ## *INTEGRANTES & CUENTA DE GITHUB* 🫂
 - [Brigitte Rojas Leon](https://github.com/DayaneRojas1506)
 - [Paola Maguiña Aranda](https://github.com/PaolaMag)
-- [Jorge Rojas Guillen]()
+- [Jorge Rojas Guillen](https://github.com/JorgeRojasGuillen)
 - [Milloshy Crisostomo Rodriguez](https://github.com/MilloshyC-UTEC)
 # Instrucciones para ejecutar el proyecto ☑️
 > Tener intalado python3.8 o versiones superiores
