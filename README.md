@@ -7,7 +7,7 @@ En total tenemos 10 figuras sacadas de la siguente imagen [Figura geometricas](h
 - [Jorge Rojas Guillen](https://github.com/JorgeRojasGuillen)
 - [Milloshy Crisostomo Rodriguez](https://github.com/MilloshyC-UTEC)
 # Instrucciones para ejecutar el proyecto ☑️
-> Tener intalado python3.8 o versiones superiores y tener instalado flask
+. Tener intalado python3.8 o versiones superiores y tener instalado flask
 *1.Lo primero que vamos hacer es entrar al **terminal** y clonar el repositorio para abrir el **main.py** del proyecto.
 2.Luego entramos a **VSCODE** para verficar el contenido que se encuentra en el **main.py**
 3.Corremos el codigo y debe  de aparecer 
